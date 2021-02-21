@@ -1,4 +1,4 @@
-![banner for septianleonardo](Header01.gif)
+![banner for septianleonardo](images/Header.gif)
 <h1> Welcome folks! 🖐</h1>
 <p >
 I'm Leonardo Dwigantoro a computer science student from Indonesia, my passions are front-end and software development.<br>
