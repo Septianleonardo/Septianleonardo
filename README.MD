@@ -1,4 +1,4 @@
-![banner for septianleonardo](images/Header.gif)
+![banner for septianleonardo](images/Header-01.gif)
 <h1> Welcome folks! 🖐</h1>
 <p >
 I'm Leo a computer science student from Indonesia who loves software development especially web development!<br>
