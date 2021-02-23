@@ -1,7 +1,7 @@
 ![banner for septianleonardo](images/Header-01.gif)
 <h1> Welcome folks! 🖐</h1>
 <p >
-I'm Leo a computer science student from Indonesia who loves software development especially web development!<br>
+I'm Leo, a computer science student from Indonesia who loves software development especially web development!<br>
 
 Tools I usually use are HTML, CSS, Javascript, jQuery, ExpressJS, ReactJS, NodeJS, MongoDB, and many more! please take a look at my repos and you won't be disappointed🚀🚀<br>
 
