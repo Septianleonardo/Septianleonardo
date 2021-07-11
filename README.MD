@@ -7,7 +7,7 @@
 
 I'm Leo computer science student from Indonesia who loves software development!
 
-![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=septianleonardo&show_icons=true&theme=dark)
+![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LDwigantoro&show_icons=true&theme=dark)
 
 Tools I'm usually use are 👩‍💻 👩‍💻 <br>
 
